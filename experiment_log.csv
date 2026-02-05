@@ -1,2 +1,3 @@
-timestamp,model,random_seed,accuracy,precision,recall,f1_score,parameters,note
-2026-02-05 10:15:49,GaussianNB,42,0.8335,0.8116,0.807,0.8093,"{'priors': None, 'var_smoothing': 1e-09}",Baseline GaussianNB run
+timestamp,model,random_seed,accuracy,precision,recall,f1_score,parameters
+2026-02-05 10:15:49,GaussianNB,42,0.8335,0.8116,0.807,0.8093,"{'priors': None, 'var_smoothing': 1e-09}"
+2026-02-05 10:26:14,LinearSVC,42,0.8518,0.8254,0.8326,0.829,"{'C': 1, 'class_weight': None, 'dual': 'auto', 'fit_intercept': True, 'intercept_scaling': 1, 'loss': 'squared_hinge', 'max_iter': 1000, 'multi_class': 'ovr', 'penalty': 'l2', 'random_state': 42, 'tol': 0.0001, 'verbose': 0}",
