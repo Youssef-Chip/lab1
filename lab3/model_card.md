@@ -1,4 +1,4 @@
-Model Card: HAR Sequence Classifier (GRU/LSTM)
+Model Card: Sentiment Analysis with Bert and Roberta
 
 # Model Details
 Developers: Darwin, Youssef, Munzir. RPI Spring 2026\
